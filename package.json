@@ -1,0 +1,19 @@
+{
+  "name": "primeiroprojeto",
+  "version": "1.0.0",
+  "description": "Bem vindo ao meu primeiro projeto Boa noite!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeApolo/primeiroProjeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeApolo/primeiroProjeto/issues"
+  },
+  "homepage": "https://github.com/FelipeApolo/primeiroProjeto#readme"
+}
